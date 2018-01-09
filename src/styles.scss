@@ -1,0 +1,11 @@
+/**
+ *  styles.scss
+ *    - global sass declarations
+ *
+ **************************************************************************************************/
+
+// importing custom variables
+@import 'styles-variables';
+
+// importing angular material theme
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
