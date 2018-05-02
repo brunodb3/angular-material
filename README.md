@@ -1,10 +1,9 @@
-# angular-material-firebase-blog
+# angular-material
 by [@brunodb3](https://github.com/brunodb3)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
 
-This is an open-source blog application built on top of `@angular/cli`, using `firebase` as
-a database/back-end solution.
+This is an open-source application built on top of `@angular/cli`.
 
 ## Installing/First steps
 
